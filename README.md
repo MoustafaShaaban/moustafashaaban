@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Moustafa-Shaaban@outlook.com**
 
-- 📄 Know about my experiences [https://moustafashaaban.github.io/resume/](https://moustafashaaban.github.io/resume/)
+- 📄 Know about my experiences [https://moustafashaaban.github.io/resume/](https://moustafashaaban.github.io/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
