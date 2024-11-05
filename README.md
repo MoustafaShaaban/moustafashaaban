@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Moustafa Shaaban</h1>
+<h1 align="center">Hi, I'm Moustafa Shaaban</h1>
 <h3 align="center">A software developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moustafashaaban&label=Profile%20views&color=0e75b6&style=flat" alt="moustafashaaban" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moustafashaaban" alt="moustafashaaban" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Vue, REST APIs and GraphQL**
+- 🌱 I’m currently learning **Django, Vue, Nuxt JS, REST APIs and GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoustafaShaaban](https://github.com/MoustafaShaaban)
+- You can access my website by [clicking here](https://moustafashaaban.github.io/)
+
+- 👨‍💻 All of my projects are available at [my github page.](https://github.com/MoustafaShaaban)
 
 - 💬 Ask me about **Django, Vue, REST APIs and GraphQL**
 
@@ -19,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/_moustafashaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_moustafashaban" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moustafashaaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moustafashaaban" height="30" width="40" /></a>
-<a href="https://hashnode.com/@moustafashaaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@moustafashaaban" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Moustafa-Shaaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@moustafashaaban" height="30" width="40" /></a>
 <a href="https://medium.com/@moustafashaaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moustafashaaban" height="30" width="40" /></a>
 </p>
 
